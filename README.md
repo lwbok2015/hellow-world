@@ -1,3 +1,4 @@
 # hellow-world
-just a practice\n
+just a practice
+
 This is my first project on github, just for practising.
